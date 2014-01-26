@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\05.CalculateFactoriels2\bin\Debug\05.CalculateFactoriels2.exe.config
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\05.CalculateFactoriels2\bin\Debug\05.CalculateFactoriels2.exe
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\05.CalculateFactoriels2\bin\Debug\05.CalculateFactoriels2.pdb
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\05.CalculateFactoriels2\obj\Debug\05.CalculateFactoriels2.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\05.CalculateFactoriels2\obj\Debug\05.CalculateFactoriels2.exe
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\05.CalculateFactoriels2\obj\Debug\05.CalculateFactoriels2.pdb

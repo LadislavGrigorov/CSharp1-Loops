@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\08.GDCof2Numbers\bin\Debug\08.GDCof2Numbers.exe.config
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\08.GDCof2Numbers\bin\Debug\08.GDCof2Numbers.exe
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\08.GDCof2Numbers\bin\Debug\08.GDCof2Numbers.pdb
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\08.GDCof2Numbers\obj\Debug\08.GDCof2Numbers.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\08.GDCof2Numbers\obj\Debug\08.GDCof2Numbers.exe
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\08.GDCof2Numbers\obj\Debug\08.GDCof2Numbers.pdb

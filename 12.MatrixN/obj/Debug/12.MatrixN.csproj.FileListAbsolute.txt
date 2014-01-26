@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\12.MatrixN\bin\Debug\12.MatrixN.exe.config
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\12.MatrixN\bin\Debug\12.MatrixN.exe
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\12.MatrixN\bin\Debug\12.MatrixN.pdb
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\12.MatrixN\obj\Debug\12.MatrixN.exe
+D:\Telerik\C# Part I\06.Цикли\Loops-Homework\Loops-Homework\12.MatrixN\obj\Debug\12.MatrixN.pdb
